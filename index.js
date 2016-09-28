@@ -43,6 +43,7 @@ $("#Quarters").html(quarter);
 $("#Dimes").html(dime);
 $("#Nickels").html(nickle);
 $("#Pennies").html(penny);
+$("#remaining").html(remaining.toFixed(2));
 
 });
 });
